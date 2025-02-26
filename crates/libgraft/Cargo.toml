@@ -2,5 +2,6 @@
 name = "libgraft"
 version = "0.1.0"
 edition = "2021"
+description = "A library that grafts various functions onto std & friends. Mostly intended for personal development ergonomics."
 
 [dependencies]
