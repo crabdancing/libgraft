@@ -8,3 +8,4 @@ repository = "https://github.com/crabdancing/libgraft"
 
 
 [dependencies]
+log = "0.4.26"
